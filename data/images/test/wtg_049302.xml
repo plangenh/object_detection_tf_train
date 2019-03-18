@@ -1,0 +1,36 @@
+<annotation>
+    <folder>test</folder>
+    <filename>wtg_049302.jpg</filename>
+    <size>
+        <width>800</width>
+        <height>422</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>weldseam</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>107</xmin>
+            <ymin>327</ymin>
+            <xmax>701</xmax>
+            <ymax>348</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>weldseam</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>105</xmin>
+            <ymin>292</ymin>
+            <xmax>706</xmax>
+            <ymax>315</ymax>
+        </bndbox>
+    </object>
+</annotation>

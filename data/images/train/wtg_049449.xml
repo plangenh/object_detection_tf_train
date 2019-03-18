@@ -1,0 +1,23 @@
+<annotation>
+    <folder>train</folder>
+    <filename>wtg_049449.jpg</filename>
+    <size>
+        <width>800</width>
+        <height>422</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>weldseam</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>67</xmin>
+            <ymin>293</ymin>
+            <xmax>714</xmax>
+            <ymax>334</ymax>
+        </bndbox>
+    </object>
+</annotation>

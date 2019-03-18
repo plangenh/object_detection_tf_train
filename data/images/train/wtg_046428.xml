@@ -1,0 +1,36 @@
+<annotation>
+    <folder>train</folder>
+    <filename>wtg_046428.jpg</filename>
+    <size>
+        <width>800</width>
+        <height>422</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>weldseam</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>373</xmin>
+            <ymin>2</ymin>
+            <xmax>389</xmax>
+            <ymax>189</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>weldseam</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>82</xmin>
+            <ymin>165</ymin>
+            <xmax>680</xmax>
+            <ymax>185</ymax>
+        </bndbox>
+    </object>
+</annotation>
