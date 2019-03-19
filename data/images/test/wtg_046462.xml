@@ -1,23 +1,26 @@
 <annotation>
-    <folder>test</folder>
-    <filename>wtg_046462.jpg</filename>
-    <size>
-        <width>800</width>
-        <height>450</height>
-        <depth>3</depth>
-    </size>
-    <segmented>0</segmented>
-    <object>
-        <name>weldseam</name>
-        <pose>Unspecified</pose>
-        <truncated>0</truncated>
-        <occluded>0</occluded>
-        <difficult>0</difficult>
-        <bndbox>
-            <xmin>85</xmin>
-            <ymin>168</ymin>
-            <xmax>611</xmax>
-            <ymax>211</ymax>
-        </bndbox>
-    </object>
+	<folder>test</folder>
+	<filename>wtg_046462.jpg</filename>
+	<path>/Volumes/HELJO Industries/Research/Object Recognition/Deep Learning/2019/tf object detection test/data/images/test/wtg_046462.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>weldseam</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>84</xmin>
+			<ymin>169</ymin>
+			<xmax>610</xmax>
+			<ymax>209</ymax>
+		</bndbox>
+	</object>
 </annotation>
